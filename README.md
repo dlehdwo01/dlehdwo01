@@ -10,7 +10,7 @@
   <ul>
             <li><h4>2023.12 ~ 2024.06 더조은아카데미 부평점</h4>
                 <ul>                    
-                    <li>6개월 풀스택 과정 수료
+                    <li>6개월 풀스택 과정 수료 (교육과정)
                       <ul>
                       <li>JAVA(이클립스) , ORACLE DB(+MYSQL) , SPRING BOOT , NODE(EXPRESS)</li>
                     <li>HTML, CSS, JS, VUE, REACT, JQUERY</li>                        
