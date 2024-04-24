@@ -20,7 +20,7 @@
                 <ul>                    
                     <li>팀프로젝트(SPRING BOOT)
                       <ul>
-                          <li>FOOD114</li>                              
+                          <li>FOOD114( https://github.com/dlehdwo01/FOOD114-TEAMPROJECT- )</li>                              
                       </ul>
                     </li>                    
                 </ul>
