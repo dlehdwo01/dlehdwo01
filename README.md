@@ -7,8 +7,8 @@
                 <ul>                    
                     <li>6개월 풀스택 과정 수료 (교육과정)
                       <ul>
-                      <li>JAVA(이클립스) , ORACLE DB(+MYSQL) , SPRING BOOT , NODE(EXPRESS)</li>
-                    <li>HTML, CSS, JS, VUE, REACT, JQUERY</li>                        
+                      <li>JAVA(이클립스) , ORACLE DB(+MYSQL) , SPRING BOOT , NODE(EXPRESS), AWS, FireBase</li>
+                    <li>HTML, CSS, JS, VUE, REACT, JQUERY, Flutter</li>                        
                       </ul>
                     </li>                    
                 </ul>
