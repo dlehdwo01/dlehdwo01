@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dlehdwo01
+- 👋 Hi, I’m Lee Dong Jae
 
 <div style= "text-align:left;">
     <h2 tabindex="-1" class="heading-element" dir="auto" >📈 개발 경력</h2>
