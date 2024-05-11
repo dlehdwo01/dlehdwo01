@@ -17,7 +17,12 @@
                       <ul>
                           <li>FOOD114( https://github.com/dlehdwo01/FOOD114-TEAMPROJECT- )</li>                              
                       </ul>
-                    </li>                    
+                    </li>   
+                    <li>개인프로젝트(Express, React) 2024.02.22 ~ 2024.03.20
+                      <ul>
+                          <li>FOOD114( https://github.com/dlehdwo01/REACT_SNS_PROJECT )</li>     
+                      </ul>
+                    </li>  
                 </ul>
             </li>           
         </ul>
