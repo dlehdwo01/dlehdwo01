@@ -13,12 +13,12 @@
                     </li>                    
                 </ul>
                 <ul>                    
-                    <li>팀프로젝트(SPRING BOOT) 2024.02.22 ~ 2024.03.20
+                    <li>팀 프로젝트(SPRING BOOT) 2024.02.22 ~ 2024.03.20
                       <ul>
                           <li>FOOD114( https://github.com/dlehdwo01/FOOD114-TEAMPROJECT- )</li>                              
                       </ul>
                     </li>   
-                    <li>개인프로젝트(Express, React) 2024.02.22 ~ 2024.03.20
+                    <li>개인 프로젝트(Express, React) 2024.04.04 ~ 2024.04.11
                       <ul>
                           <li>FOOD114( https://github.com/dlehdwo01/REACT_SNS_PROJECT )</li>     
                       </ul>
