@@ -33,7 +33,8 @@
                 <ul>                    
                     <li>팀 프로젝트(SPRING BOOT) 2024.02.22 ~ 2024.03.20
                       <ul>
-                          <li>FOOD114( https://github.com/dlehdwo01/FOOD114-TEAMPROJECT- )</li>                              
+                          <li>FOOD114( https://github.com/dlehdwo01/FOOD114-TEAMPROJECT- )</li>    
+                          <li><a href='http://3.38.73.131:8080/food114.do'> FOOD114 시연 사이트 클릭</a></li>
                       </ul>
                     </li>   
                     <li>개인 프로젝트(Express, React) 2024.04.04 ~ 2024.04.11
