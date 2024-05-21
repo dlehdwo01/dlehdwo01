@@ -39,7 +39,7 @@
                     </li>   
                     <li>개인 프로젝트(Express, React) 2024.04.04 ~ 2024.04.11
                       <ul>
-                          <li>FOOD114( https://github.com/dlehdwo01/REACT_SNS_PROJECT )</li>     
+                          <li>SNS( https://github.com/dlehdwo01/REACT_SNS_PROJECT )</li>     
                       </ul>
                     </li>  
                 </ul>
